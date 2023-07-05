@@ -11,3 +11,6 @@
 - 10am to 2pm
 - 6pm to 10pm
 2. I will spend extra time practicing coding using the commands learned in live sessions and assignments, especially those which I may struggle to commit to memory.
+
+## Shoutout
+1. My father has been very supportive of me. He has been a programmer for the government since the old mainframe days, and he is very interested in hearing about my experiences in Turing.
